@@ -1,0 +1,70 @@
+university/repository/ScheduleCourses.java
+ university.repository.ScheduleCourses
+university/service/DTO/CourseDTO.java
+ university.service.DTO.CourseDTO
+university/controller/HumanController.java
+ university.controller.HumanController
+university/service/StudentService.java
+ university.service.StudentService
+university/controller/SemesterController.java
+ university.controller.SemesterController
+university/repository/Course.java
+ university.repository.Course
+university/controller/CourseController.java
+ university.controller.CourseController
+university/configuration/MessageConfig.java
+ university.configuration.MessageConfig
+university/service/DTO/ScheduleCourseDTO.java
+ university.service.DTO.ScheduleCourseDTO
+university/service/DTO/HumanDTO.java
+ university.service.DTO.HumanDTO
+university/service/ProfessorService.java
+ university.service.ProfessorService
+university/repository/CourseRepository.java
+ university.repository.CourseRepository
+university/service/HumanService.java
+ university.service.HumanService
+university/repository/StudentRepository.java
+ university.repository.StudentRepository
+university/controller/StudentController.java
+ university.controller.StudentController
+university/repository/Semester.java
+ university.repository.Semester
+university/repository/ProfessorRepository.java
+ university.repository.ProfessorRepository
+university/controller/ProfessorController.java
+ university.controller.ProfessorController
+university/service/DTO/StudentDTO.java
+ university.service.DTO.StudentDTO
+university/service/DTO/AssignmentResponse.java
+ university.service.DTO.AssignmentResponse
+university/repository/Human.java
+ university.repository.Human
+university/repository/SemesterRepository.java
+ university.repository.SemesterRepository
+university/service/SemesterService.java
+ university.service.SemesterService
+university/service/CourseService.java
+ university.service.CourseService
+university/repository/Student.java
+ university.repository.Student
+university/repository/ScheduleCoursesRepository.java
+ university.repository.ScheduleCoursesRepository
+university/service/DTO/SemesterDTO.java
+ university.service.DTO.SemesterDTO
+university/service/ScheduleCourseService.java
+ university.service.ScheduleCourseService
+university/service/DTO/ProfessorDTO.java
+ university.service.DTO.ProfessorDTO
+university/service/DTO/AssignmentRequest.java
+ university.service.DTO.AssignmentRequest
+university/repository/HumanRepository.java
+ university.repository.HumanRepository
+university/repository/Professor.java
+ university.repository.Professor
+university/UniversityApp.java
+ university.UniversityApp
+university/message/QueueSender.java
+ university.message.QueueSender
+university/controller/ScheduleCoursesController.java
+ university.controller.ScheduleCoursesController
